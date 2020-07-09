@@ -1,0 +1,46 @@
+lin-cms-koa/logs/
+lin-cms-koa/npm-debug.log
+lin-cms-koa/yarn-error.log
+lin-cms-koa/node_modules/
+lin-cms-koa/package-lock.json
+lin-cms-koa/yarn.lock
+lin-cms-koa/coverage/
+lin-cms-koa/.idea/
+lin-cms-koa/run/
+lin-cms-koa/suspect/
+lin-cms-koa/.DS_Store
+lin-cms-koa/*.sw*
+lin-cms-koa/*.un~
+lin-cms-koa/.vscode/
+lin-cms-koa/dist
+lin-cms-koa/learn
+lin-cms-koa/tokens.json
+lin-cms-koa/app/assets
+
+
+
+
+
+lin-cms-vue/.DS_Store
+lin-cms-vue/node_modules
+lin-cms-vue/dist
+lin-cms-vue/script/.cache
+
+# local env files
+lin-cms-vue/.env.local
+lin-cms-vue/.env.*.local
+
+# Log files
+lin-cms-vue/npm-debug.log*
+lin-cms-vue/yarn-debug.log*
+lin-cms-vue/yarn-error.log*
+
+
+# Editor directories and files
+lin-cms-vue/.idea
+lin-cms-vue/.vscode
+lin-cms-vue/*.suo
+lin-cms-vue/*.ntvs*
+lin-cms-vue/*.njsproj
+lin-cms-vue/*.sln
+lin-cms-vue/*.sw*
